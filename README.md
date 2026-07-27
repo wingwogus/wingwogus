@@ -28,7 +28,7 @@
     <td width="50%" valign="top">
       <b><a href="https://github.com/wingwogus/ChamChamCham">ChamChamCham</a></b> <code>BE · Infra</code><br>
       초기 농업인을 위한 AI 기반 영농일지 코칭 플랫폼<br><br>
-      <code>Kotlin</code> <code>Spring Boot</code> <code>Redis</code> <code>WebSocket</code> <code>Docker</code>
+      <code>Kotlin</code> <code>Spring Boot</code> <code>Spring AI</code> <code>Redis</code> <code>Docker</code>
     </td>
   </tr>
   <tr>
