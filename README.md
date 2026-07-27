@@ -26,9 +26,9 @@
       <code>Kotlin</code> <code>Spring Boot</code> <code>Redis</code> <code>WebSocket</code> <code>Docker</code> <code>Kubernetes</code> <code>Argo CD</code>
     </td>
     <td width="50%" valign="top">
-      <b><a href="https://github.com/wingwogus/MiruMiru">MiruMiru</a></b> <code>BE · Infra</code><br>
-      일본 대학 커뮤니티 및 학사 지원 서비스<br><br>
-      <code>Kotlin</code> <code>Spring Boot</code> <code>Redis</code> <code>WebSocket</code> <code>Docker</code> <code>Kubernetes</code> <code>Argo CD</code>
+      <b><a href="https://github.com/wingwogus/ChamChamCham">ChamChamCham</a></b> <code>BE · Infra</code><br>
+      초기 농업인을 위한 AI 기반 영농일지 코칭 플랫폼<br><br>
+      <code>Kotlin</code> <code>Spring Boot</code> <code>Redis</code> <code>WebSocket</code> <code>Docker</code>
     </td>
   </tr>
   <tr>
