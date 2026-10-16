@@ -96,19 +96,6 @@ I aim to turn service requirements into reliable systems and working features, a
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/litmuschaos/litmus">
-        <img src="https://img.shields.io/badge/Litmus%20Chaos-5B44BA?style=for-the-badge&logo=litmuschaos&logoColor=white" alt="Litmus Chaos" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/litmuschaos/litmus/pull/5546">
-        <img src="https://img.shields.io/badge/PR-5546-black?style=for-the-badge&logo=github&logoColor=white" alt="PR #5546" />
-      </a>
-    </td>
-    <td>Add fuzz tests for chaos experiment MongoDB CRUD operations</td>
-  </tr>
-  <tr>
-    <td align="center">
       <a href="https://github.com/OpenAPITools/openapi-generator">
         <img src="https://img.shields.io/badge/OpenAPI%20Generator-6BA539?style=for-the-badge&logo=openapiinitiative&logoColor=white" alt="OpenAPI Generator" />
       </a>
